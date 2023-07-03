@@ -56,3 +56,4 @@
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-53.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-54.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-55.jpg)
+![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-56.jpg)
