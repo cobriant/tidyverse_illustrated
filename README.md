@@ -37,6 +37,7 @@
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-34.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-35.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-36.jpg)
+# ggplot2
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-37.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-38.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-39.jpg)
